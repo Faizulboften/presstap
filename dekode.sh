@@ -7,7 +7,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
 clear
-sleep 10
+sleep 5
 echo $cyan " 🔓 MEMUAT SCRIP "
 sleep 20
 termux-open https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q
