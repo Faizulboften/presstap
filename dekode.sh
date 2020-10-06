@@ -14,10 +14,9 @@ termux-open https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q
 clear
 echo $or "
 
- \n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
-\t\033[00m FACEBOOK CLON V3
-\t\033[90m -----------------------\033[94m\n"
-
+╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗ 🔓 082271426251
+║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝ ⚠ FAIZUL
+╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩    ⚠ YT HTC CTR GAMIG"
 
 echo $pu "
       
